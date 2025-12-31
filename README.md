@@ -15,11 +15,8 @@
 
 
 ##### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=wkdtngur951-droid&show_icons=true&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkdtngur951-droid&layout=compact&theme=tokyonight" />
-</p>
-
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=wkdtngur951-droid&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=wkdtngur951-droid&theme=radical)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=wkdtngur951-droid&layout=compact&theme=radical)
 ---
 
