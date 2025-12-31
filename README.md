@@ -3,7 +3,7 @@
 ##### ✍️ About Me
 - 🔭 I’m currently working on **WooriFISA 06 AI Engineering**
 - 🌱 I’m currently learning **VScode/Python**
-- 📫 Contacts: **123wkdtngur@naver.com / (+82)10-5636-0274**
+- 📫 Contacts: **123wkdtngur@naver.com**
 
 ---
 
